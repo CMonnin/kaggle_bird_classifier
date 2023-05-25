@@ -41,7 +41,7 @@ To use the code in this repository, please follow these steps:
 4. Download the data from [100-bird-species](https://www.kaggle.com/datasets/gpiosenka/100-bird-species) (approx. 2 GB). Extract the data and store it in a directory kaggle_bird_classifier/kaggle/archive/
 
 ## Usage
-Please follow the notebook found here XXX to see how the model was trained, tested, and validated  
+Please follow the notebook found [here](https://github.com/CMonnin/kaggle_bird_classifier/blob/main/bird_classifier.ipynb) to see how the model was trained, tested, and validated  
 
 ## Contributions
 The following people contributed to this project:  
