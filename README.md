@@ -24,7 +24,7 @@ To use the code in this repository, please follow these steps:
    ```bash
    git clone https://github.com/CMonnin/kaggle_bird_classifier.git
    ```
-1. Clone the repository to your local machine using the following command:
+1. Change directory
    ```bash
    cd kaggle_bird_classifier
    ```
@@ -38,6 +38,8 @@ To use the code in this repository, please follow these steps:
    ```bash
    pip install -r requirements.txt
    ```
+4. Download the data from [100-bird-species](https://www.kaggle.com/datasets/gpiosenka/100-bird-species) (approx. 2 GB). Extract the data and store it in a directory kaggle_bird_classifier/kaggle/archive/
+
 ## Usage
 Please follow the notebook found here XXX to see how the model was trained, tested, and validated  
 
