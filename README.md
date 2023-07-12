@@ -24,7 +24,7 @@ To use the code in this repository, please follow these steps:
    ```bash
    git clone https://github.com/CMonnin/kaggle_bird_classifier.git
    ```
-2 Change directory
+2. Change directory
    ```bash
    cd kaggle_bird_classifier
    ```
